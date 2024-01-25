@@ -1,0 +1,22 @@
+package folhadepagamento;
+
+public class ContratoTrabalho {
+	Funcionario funcionario = new Funcionario();
+	
+	double ValorHoraTrabalhada;
+	double ValorHoraExtraTrabalhada;
+	
+	double AdcionalPorFilho() {
+		Holerite holerite = new Holerite();
+		
+		double adcional;
+		
+		if (funcionario.funcionarioPossuiFilhos()) {
+			adcional = (1 + Holerite ValorAdicionalParaFilhos);
+		} else {
+			adcional = 1;
+		}
+		
+		return adcional;
+	}
+}

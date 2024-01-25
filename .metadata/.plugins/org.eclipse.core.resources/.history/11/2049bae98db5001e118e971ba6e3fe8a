@@ -1,0 +1,20 @@
+package folhadepagamento;
+
+public class Principal {
+	public static void main(String[] args) {
+		FolhaPagamento pagamento = new FolhaPagamento();
+		Funcionario funcionario = new Funcionario();
+		Holerite holerite = new Holerite();
+		
+		Holerite.totalHorasNormais = 10;
+		Holerite.totalHorasExtras = 5;
+		ContratoTrabalho.ValorHoraTrabalhada = 2;
+		ContratoTrabalho.ValorHoraExtraTrabalhada = 3;
+		funcionario.adcionarFilhos(3);
+
+		//		System.out.println(contrato.AdcionalPorFilho());
+
+		System.out.println(pagamento.calcularSalario());
+		System.out.println(holerite.imprimirHolerite());
+	}
+}

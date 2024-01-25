@@ -1,0 +1,15 @@
+package folhadepagamento;
+
+public class FolhaPagamento {
+	
+	double calcularSalario() {
+		Holerite holerite = new Holerite();
+		double resultado ;
+		
+		holeirte.totalEncargosTrabalhistas()
+		
+		return resultado * contrato.AdcionalPorFilho();
+	}
+	
+
+}

@@ -1,0 +1,17 @@
+package portariahospital;
+
+public class CadastroPortaria {
+	
+	//sobrecarga de método é ter 2 metódos com mesmo nome, mas parÂmetros diferentes,
+	void cadastrar() {
+		this.cadastrar();
+	}
+	
+	void cadastrar(Visitante visitante, int tempoExpiracaoEmMesses) {
+		final int tempoExpiracaoEmDias = tempoExpiracaoEmMesses * 30;
+		
+		System.out.printf("Visitante %s cadastrado para %d dias.", visitante.nome,
+				tempoExpiracaoEmDias);
+	}
+	
+}

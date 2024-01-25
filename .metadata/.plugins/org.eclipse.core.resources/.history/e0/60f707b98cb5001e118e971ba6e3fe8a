@@ -1,0 +1,12 @@
+package folhadepagamento;
+
+public class FolhaPagamento {
+	
+	double calcularSalario() {
+		Holerite holerite = new Holerite();
+
+		return holerite.totalEncargosTrabalhistas();
+	}
+	
+
+}

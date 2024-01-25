@@ -1,0 +1,9 @@
+package desafio4OrientavcaoObjeto;
+
+public class Principal {
+	public static void main(String[] args) {
+		NumeroUltil numeroUtil = new NumeroUltil();
+		numeroUtil.maiorNumeroInteiro(2, 2);
+	}
+
+}

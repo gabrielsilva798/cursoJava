@@ -1,0 +1,20 @@
+package portariahospital;
+
+public class Principal {
+	public static void main(String[] args) {
+		Visitante novoVisitante = new Visitante();
+		
+		novoVisitante.nome = "joão";
+		novoVisitante.idade = 12;
+
+		int messesVisitantes = 30;
+		
+		CadastroPortaria cadastroPortaria =  new CadastroPortaria();
+		cadastroPortaria.cadastrar(novoVisitante, messesVisitantes);
+		cadastroPortaria.cadastrar(novoVisitante);// sobrecarga, metodo com mesmo nome
+		
+		System.out.printf("%nacesso: %s%n",novoVisitante.possuiAcessoRestritoPorIdade() == true 
+				? "Liberado." : "Negado.");
+		
+	}
+}

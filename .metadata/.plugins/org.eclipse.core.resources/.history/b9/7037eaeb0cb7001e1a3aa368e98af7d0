@@ -1,0 +1,10 @@
+package desafio3OrientacaoObejto;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		calculoArea = new CalculoArea();
+
+	}
+
+}

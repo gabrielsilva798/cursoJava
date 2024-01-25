@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;quantidadeFilhos&apos; in &apos;folhadepagamento.Funcionario.adcionarFilhos(...)&apos; to &apos;numeroDeFilhos&apos;&#x0D;&#x0A;- Original project: &apos;desafio2OrientacaoObjeto&apos;&#x0D;&#x0A;- Original element: &apos;folhadepagamento.Funcionario.adcionarFilhos(int).quantidadeFilhos&apos;&#x0D;&#x0A;- Renamed element: &apos;quantidadeFilhos&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;quantidadeFilhos&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;folhadepagamento{Funcionario.java[Funcionario~adcionarFilhos~I@quantidadeFilhos!121!140!125!140!I!0!true" name="numeroDeFilhos" references="true" stamp="1705527144863" version="1.0"/>
+</session>

@@ -1,0 +1,10 @@
+package desafio3OrientacaoObejto;
+
+public class CalculoArea {
+	
+	static double areaDoQuadrada(double ladoDoQuadrado) {
+		return ladoDoQuadrado *= ladoDoQuadrado;
+	}
+
+	
+}

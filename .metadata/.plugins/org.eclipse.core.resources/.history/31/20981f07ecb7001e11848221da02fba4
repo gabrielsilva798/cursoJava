@@ -1,0 +1,13 @@
+package portariahospital;
+
+public class CadastroPortaria {
+	
+	
+	void cadastrar(Visitante visitante, int tempoExpiracaoEmMesses) {
+		final int tempoExpiracaoEmDias = tempoExpiracaoEmMesses * 30;
+		
+		System.out.printf("Visitante %s cadastrado para %d dias.", visitante.nome,
+				tempoExpiracaoEmDias);
+	}
+	
+}

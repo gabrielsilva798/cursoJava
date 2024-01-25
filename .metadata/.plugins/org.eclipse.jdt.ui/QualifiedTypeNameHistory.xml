@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="calculadoraImc.IndiceMassaCorporal"/>
+    <fullyQualifiedTypeName name="imc.CalculadoraIMC"/>
+    <fullyQualifiedTypeName name="precificacao.ServicoDePrecificacao"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="precificacao.Produto"/>
+    <fullyQualifiedTypeName name="javax.xml.namespace.QName"/>
+    <fullyQualifiedTypeName name="portariahospital.CadastroPortaria"/>
+    <fullyQualifiedTypeName name="folhadepagamento.FolhaPagamento"/>
+    <fullyQualifiedTypeName name="folhadepagamento.Funcionario"/>
+    <fullyQualifiedTypeName name="folhadepagamento.ContratoTrabalho"/>
+    <fullyQualifiedTypeName name="folhadepagamento.Holerite"/>
+    <fullyQualifiedTypeName name="desafio3OrientacaoObejto.CalculoArea"/>
+    <fullyQualifiedTypeName name="portariahospital.Visitante"/>
+</qualifiedTypeNameHistroy>
