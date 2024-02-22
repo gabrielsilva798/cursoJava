@@ -14,4 +14,17 @@
     <fullyQualifiedTypeName name="desafio3OrientacaoObejto.CalculoArea"/>
     <fullyQualifiedTypeName name="portariahospital.Visitante"/>
     <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="array.Calculadora"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="array.Vetor"/>
+    <fullyQualifiedTypeName name="gabriel.cim.array.aula3.interandoarray.Calculadora"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="gabriel.com.array.aula6.aobjeto.Turma"/>
+    <fullyQualifiedTypeName name="gabriel.com.array.aula6.aobjeto.Aluno"/>
+    <fullyQualifiedTypeName name="gabriel.com.array.aula9.aobjeto.removendo_elementos.Test"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>

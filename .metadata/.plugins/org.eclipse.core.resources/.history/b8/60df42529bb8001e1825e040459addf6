@@ -1,7 +1,0 @@
-package desafio4OrientavcaoObjeto;
-
-public class NumeroUltil {
-	int maiorNumero() {
-		
-	}
-}
