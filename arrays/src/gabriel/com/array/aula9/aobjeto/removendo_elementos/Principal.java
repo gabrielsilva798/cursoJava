@@ -12,6 +12,7 @@ public class Principal {
 		
 		int[] numerosJogosAtuais = {25, 11, 8, 46, 37, 14, 55};
 		int[] novosJogosAtuais = new int[numerosJogosAtuais.length - 1];
+		System.out.println(test.fatorial(4));
 		
 		test.removerElementos(numerosJogosAtuais, 0);
 		
@@ -22,7 +23,7 @@ public class Principal {
 		// MÉTODO DA CLASSE SYSTEM PARA EXCLUIR VALORES DE ARRAY
 		// recebe muitos parâmetros- eu fiz um método acima mais simples
 		// tive que usar ele duas vezes para fazer a cópia
-		System.arraycopy(numerosJogosAtuais, 0, novosJogosAtuais, 
+		   System.arraycopy(numerosJogosAtuais, 0, novosJogosAtuais, 
 				0, indiceExclusao);
 		System.arraycopy(numerosJogosAtuais, indiceExclusao+1, novosJogosAtuais, 
 				indiceExclusao, novosJogosAtuais.length - indiceExclusao);

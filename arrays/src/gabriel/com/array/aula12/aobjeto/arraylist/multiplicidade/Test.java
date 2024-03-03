@@ -1,4 +1,4 @@
-package gabriel.com.array.aula9.aobjeto.removendo_elementos;
+package gabriel.com.array.aula12.aobjeto.arraylist.multiplicidade;
 
 public class Test {
 	

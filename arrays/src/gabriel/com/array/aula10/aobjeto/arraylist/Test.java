@@ -1,4 +1,4 @@
-package gabriel.com.array.aula9.aobjeto.removendo_elementos;
+package gabriel.com.array.aula10.aobjeto.arraylist;
 
 public class Test {
 	
